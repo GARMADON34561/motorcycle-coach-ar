@@ -1,4 +1,4 @@
-﻿# Motorcycle AR Coach
+# Motorcycle AR Coach
 
 OpenEnv environment for training an AI to coach motorcycle riding.
 
