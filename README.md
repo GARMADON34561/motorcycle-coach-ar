@@ -1,6 +1,6 @@
 ﻿---
 title: Motorcycle AR Coach
-emoji: motorcycle
+emoji: 🚀
 colorFrom: blue
 colorTo: green
 sdk: docker
