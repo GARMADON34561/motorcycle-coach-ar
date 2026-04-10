@@ -1,0 +1,17 @@
+﻿[project]
+name = "motorcycle_coach_ar"
+version = "0.1.0"
+description = "AR Motorcycle Coach"
+authors = [{name = "Garmadon"}]
+dependencies = ["openenv-core>=0.2.2", "openai>=1.0.0", "uvicorn>=0.24.0"]
+requires-python = ">=3.10"
+
+[project.scripts]
+server = "server.app:main"
+
+[tool.setuptools]
+packages = ["server"]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
