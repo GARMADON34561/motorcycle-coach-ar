@@ -1,3 +1,12 @@
+﻿---
+title: Motorcycle AR Coach
+emoji: motorcycle
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Motorcycle AR Coach
 
 OpenEnv environment for training an AI to coach motorcycle riding.
